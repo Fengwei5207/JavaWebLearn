@@ -1,5 +1,7 @@
 package com.itoffer.servlet;
 
+import com.itoffer.dao.ApplicationDao;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -22,8 +24,16 @@ public class ApplicantRegisterServlet extends HttpServlet {
 
         String email = req.getParameter("email");
         String password = req.getParameter("pwd");
+        ApplicationDao  ad = new ApplicationDao();
+        Boolean flag = ad.isExistEmail(email);
+        if (!flag) {
+            ad.save(email, password);
+            resp.sendRedirect("login.html");
+        }else {
+            resp.getWriter().write("邮箱已存在");
+            resp.sendRedirect("register.html");
+        }
 
-        System.out.println(email+"    "+password);
     }
 
     @Override
