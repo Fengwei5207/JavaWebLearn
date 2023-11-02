@@ -8,6 +8,7 @@
           <element id="module-output" name="Class02" />
         </element>
       </element>
+      <element id="library" level="project" name="lib" />
     </root>
   </artifact>
 </component>
