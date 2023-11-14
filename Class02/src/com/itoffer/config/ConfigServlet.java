@@ -46,6 +46,7 @@ public class ConfigServlet extends HttpServlet {
         }
         //将用户名和密码写入响应
         resp.getWriter().append(user).append("\n").append(pwd).append("<br />").append(sb.toString());
+
     }
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Class01/Class01.iml" filepath="$PROJECT_DIR$/Class01/Class01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class02/Class02.iml" filepath="$PROJECT_DIR$/Class02/Class02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class03/Class03.iml" filepath="$PROJECT_DIR$/Class03/Class03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class04/Class04.iml" filepath="$PROJECT_DIR$/Class04/Class04.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWebClass.iml" filepath="$PROJECT_DIR$/JavaWebClass.iml" />
     </modules>
   </component>

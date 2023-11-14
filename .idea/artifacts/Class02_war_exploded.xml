@@ -9,7 +9,6 @@
         </element>
       </element>
       <element id="library" level="project" name="lib" />
-      <element id="library" level="project" name="mysql-connector-java-8.0.29" />
     </root>
   </artifact>
 </component>
