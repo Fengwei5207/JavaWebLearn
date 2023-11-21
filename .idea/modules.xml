@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Class02/Class02.iml" filepath="$PROJECT_DIR$/Class02/Class02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class03/Class03.iml" filepath="$PROJECT_DIR$/Class03/Class03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class04/Class04.iml" filepath="$PROJECT_DIR$/Class04/Class04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class05/Class05.iml" filepath="$PROJECT_DIR$/Class05/Class05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class06_Session/Class06_Session.iml" filepath="$PROJECT_DIR$/Class06_Session/Class06_Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class07_JSP/Class07_JSP.iml" filepath="$PROJECT_DIR$/Class07_JSP/Class07_JSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWebClass.iml" filepath="$PROJECT_DIR$/JavaWebClass.iml" />
     </modules>
   </component>
