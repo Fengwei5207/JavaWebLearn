@@ -5,7 +5,7 @@
   Time: 15:39
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="application/vnd.ms-excel;charset=UTF-8" language="java" %>
+<%@ page contentType="application/vnd.ms-excel;charset=UTF-8" language="java" pageEncoding="UTF-8" %>
 <html>
     <head>
         <title>ExcelDemo</title>
